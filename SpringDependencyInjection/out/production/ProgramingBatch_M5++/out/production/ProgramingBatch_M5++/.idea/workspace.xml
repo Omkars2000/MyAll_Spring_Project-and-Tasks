@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4359cfd8-6cbb-4b37-bdc1-9c027ec2ebd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ArraysProblem/AcceptValue2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArraysProblem/ArrayFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArraysProblem/InsertstionShortSir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArraysProblem/QuickShort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArraysProblem/RemoveDuplicateFromShortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArraysProblem/SelectionShort1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Problem4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Problem5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Program3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programing17_10/NumberReverseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiberNetics/DesimalToBinaery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiberNetics/FindMissingValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiberNetics/MoveArrayValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiberNetics/Problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiberNetics/ReplaceFromMid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SiberNetics/SpyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringProblems/AssciValueBraket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringProblems/ReplaceString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringProblems/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringProblems/StringAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringProblems/StringBraketValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringProblems/StringHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringProblems/StringOccurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringProblems/StringPalindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringProblems/StringSplit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/MaximumEl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArraysProblem/MaximumEl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysProblem/ThirdSmallestNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArraysProblem/ThirdSmallestNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programing17_10/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programing17_10/Problem1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programing17_10/Problem18_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programing17_10/Problem18_04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programing17_10/Problem3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Programing17_10/Problem3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramingBatch_M5++.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramingBatch_M5++.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProgramingQuetions/Problem16.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramingQuetions/Problem16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StarsPrograms/SpaceTriangle1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramingQuetions/StarsPrograms/SpaceTriangle1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StarsPrograms/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProgramingQuetions/StarsPrograms/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/AngularMinds/Problem1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/AngularMinds/Problem12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Array/ArrayDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Array/ArrayDemo10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Array/ArrayDemo11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Array/ArrayDemo12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Array/ArrayDemo13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Array/ArrayDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Array/ArrayDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Array/ArrayDemo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Array/ArrayDemo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Array/ArrayDemo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Array/ArrayDemo8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Array/ArrayDemo9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Array/ArrayDemoSir6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Array/BillCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Array/HsbcSwapnilEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Array/StoreManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Blocks/BlockDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Blocks/BlockDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Home/AdditionArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Home/CompanyExam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Home/FibonacciSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Home/FindMaxAndMin$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Home/FindMaxAndMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Home/HashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Home/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Home/RecurstionDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Loops/ForLoopDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Loops/ForLoopDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Loops/ForLoopDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Loops/ForLoopDemo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Loops/ForLoopDemo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Loops/ForLoopDemo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Loops/ForLoopDemo7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/HomeWork2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/NumHomP10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/NumP7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/NumProblem2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/NumProblem3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/NumberSepratePoblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/Problem10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/Problem8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/Problem9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/Program1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/Program2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/Program3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/Program4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/Program5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/ReverseNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/angularCompanyProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Number_Prohraming/problem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem36.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem37.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem54.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem60.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/PatternQuetions/Problem9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/ProgramingBatchPrograms/FibonacciSeries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/ProgramingTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/ProgramingTest/Problem1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/String/StringDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/String/StringDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/String/StringDemo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/String/StringDemo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/String/StringDemo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/String/StringDemo7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/String/StringDemo8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Test/Problem1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Test/Problem2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Test/Problem3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Test/Problem4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Test/Pyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/Test/test9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/WhileLoop/BrakeDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/WhileLoop/SwitchDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/WhileLoop/WhileLoopDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/WhileLoop/WhileLoopDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/WhileLoop/WhileLoopDemo2Renew.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/WhileLoop/WhileLoopDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/_PKG1/Welcome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PaternTest/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PaternTest/Problem1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PaternTest/Problem2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PaternTest/Problem3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PaternTest/Problem4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PaternTest/Problem5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/ArraysProblem/ThirdSmallestNum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/ArraysProblem/ThirdSmallestNum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/Programing17_10/Problem1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/Programing17_10/Problem1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/Programing17_10/Problem18_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/Programing17_10/Problem18_04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/Programing17_10/Problem3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/Programing17_10/Problem3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/ProgramingBatch_M5++.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/ProgramingBatch_M5++.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/ProgramingQuetions/Problem16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/ProgramingQuetions/Problem16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/StarsPrograms/SpaceTriangle1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgramingBatch_M5++/StarsPrograms/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingBatch/ProgrammingBatch/HaloP5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingBatch/ProgrammingBatch/HaloP6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingBatch/ProgrammingBatch/HoloP_1Sunday7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingBatch/ProgrammingBatch/HoloSun10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingBatch/ProgrammingBatch/HoloSun13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingBatch/ProgrammingBatch/HoloSun8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingBatch/ProgrammingBatch/HoloSunP12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingBatch/ProgrammingBatch/HoloSunP14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingBatch/ProgrammingBatch/NumTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingBatch/ProgrammingBatch/PrintTrangleProblem4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingBatch/ProgrammingBatch/Program1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingBatch/ProgrammingBatch/Program3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingBatch/ProgrammingBatch/StarProblem1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingBatch/ProgrammingBatch/program2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Abstraction/BasicAbstraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Abstraction/CFLLight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Abstraction/LEDLight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Abstraction/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Composition/HDD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Composition/Laptop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Composition/MainApp1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Composition/MainApp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Composition/MainApp3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Composition/Pen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Composition/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Composition/Repil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Composition/SalesMan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Composition/Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Constructor_Chaining/Central.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Constructor_Chaining/Collage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Constructor_Chaining/Constroctor_Call/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Constructor_Chaining/Constroctor_Call/MainApp1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Constructor_Chaining/Constroctor_Call/MainApp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Constructor_Chaining/Constroctor_Call/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Constructor_Chaining/Constroctor_Call/SubDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Constructor_Chaining/Constroctor_Call/SuperDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Constructor_Chaining/Department.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Constructor_Chaining/MainApp1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Constructor_Chaining/MainApp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Constructor_Chaining/MainApp3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Constructor_Chaining/Master.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Constructor_Chaining/Mobile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Constructor_Chaining/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Constructor_Chaining/University.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/DesignPattern/GoogleAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/DesignPattern/Singleton_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Inharitance/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Inharitance/ContractEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Inharitance/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Inharitance/MainApp1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Inharitance/MainApp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Inharitance/MainApp3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Inharitance/Parent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Inharitance/PermenentEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Inharitance/WhatsAppV1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Inharitance/WhatsAppV2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Inharitance/WhatsAppV3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Method_Overriding/Facebook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Method_Overriding/MainApp1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Method_Overriding/MainApp2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SECTION2_1CCA15/Method_Overriding/Student.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KDUkxBG8Lk5Hb3S1VimvoLb9S7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.MurgeSortArray">
+    <configuration name="MurgeSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.MurgeSortArray" />
+      <module name="ProgramingBatch_M5++" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorted3ArraysSameEle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.Sorted3ArraysSameEle" />
+      <module name="ProgramingBatch_M5++" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MurgeSortArray" />
+        <item itemvalue="Application.Sorted3ArraysSameEle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4359cfd8-6cbb-4b37-bdc1-9c027ec2ebd9" name="Changes" comment="" />
+      <created>1673508795289</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673508795289</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

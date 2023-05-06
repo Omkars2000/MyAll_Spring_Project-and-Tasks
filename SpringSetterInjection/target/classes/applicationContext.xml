@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+    <!-- Object Configuration mobile and sim card-->
+    <bean id="card1" class="demo1.Airtel"/>
+    <bean id="card2" class="demo1.Jio"/>
+
+
+    <bean id="mobile1" class="demo1.SmartPhone">
+        <property name="sim" ref="card1"></property>
+    </bean>
+    <bean id="mobile2" class="demo1.SmartPhone">
+        <property name="sim" ref="card2"></property>
+    </bean>
+
+
+    <!-- Object Configuration RAM and GraphicCard -->
+    <bean id="ram" class="Task1.RAM"/>
+    <bean id="graph" class="Task1.GraphicCard"/>
+
+
+    <bean id="laptop1" class="Task1.Hp">
+        <constructor-arg ref="ram"/>
+        <property name="card" ref="graph"></property>
+    </bean>
+
+    <bean id="laptop2" class="Task1.Acer">
+        <constructor-arg ref="ram"/>
+<!--        <property name="card" ref="graph"></property>-->
+    </bean>
+
+<!-- Configuration of Atm and Printer-->
+    <bean id="printer" class="master.Printer"/>
+    <bean id="atm" class="master.Atm">
+        <property name="print" ref="printer"/>
+    </bean>
+
+
+
+
+</beans>

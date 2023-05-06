@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+    <!-- Object Configuration-->
+   <bean id="engine1" class="demo.PetrolEngine"/>
+    <bean id="engine2" class="demo.DieselEngine"/>
+
+    <bean id="car1" class="demo.PetrolCar">
+        <constructor-arg ref="engine1"/>
+    </bean>
+    <bean id="car2" class="demo.DieselCar">
+        <constructor-arg ref="engine2"/>
+    </bean>
+
+
+
+
+
+</beans>
